@@ -20,3 +20,5 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div><br>
 Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.
+
+![Snake animation](https://github.com/wendermessias/wendermessias/blob/output/github-contribution-grid-snake.svg)
