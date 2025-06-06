@@ -1,5 +1,7 @@
 <!-- Link do video que usei para fazer
-https://youtu.be/cRoBt6AZgjc?si=Z3T7F-i3jZuodyze -->
+https://youtu.be/cRoBt6AZgjc?si=Z3T7F-i3jZuodyze 
+
+https://youtu.be/9ygf4hkLVnA?si=WC2_lNrQWtLV2ijP-->
 
 ### Olá ! Eu sou Wender Messias!! 🛹
 
@@ -11,18 +13,41 @@ https://youtu.be/cRoBt6AZgjc?si=Z3T7F-i3jZuodyze -->
   <a href="mailto:messiaswendersilva@outlook.com?body=Olá,%20tudo%20bem?%20Vi%20seu%20e-mail%20e%20resolvi%20entrar%20em%20contato."><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="microsoft-outlook"></a>    
 </div>
 
+### 📊Estatísticas
 
-![Wender messias GitHub stats](https://github-readme-stats.vercel.app/api?username=wendermessias&show_icons=true&theme=tokyonight)
+<p>
+   <img 
+        align-itens="left" 
+        alt="github-stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=wendermessias&show_icons=true&theme=tokyonight"
+     />
+      <img 
+        align-itens="left" 
+        alt="github-stats" 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendermessias&theme=tokyonight"
+     />
+    <!-- <img 
+        align-itens="left" 
+        alt="github-stats" 
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendermessias&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
+     /> -->
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendermessias&layout=compact)](https://github.com/wendermessias)
 
+## 🖥️Tecnologia que uso
 
-## Tecnologia que uso
-<div stale="display: inline_block">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</div><br>
-Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.
+<p>
+   <div>
+        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    </div>
+</p>
+
+# Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão
