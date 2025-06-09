@@ -49,5 +49,11 @@ https://youtu.be/9ygf4hkLVnA?si=WC2_lNrQWtLV2ijP-->
         <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     </div>
 </p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wendermessias/wendermessias/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wendermessias/wendermessias/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 # Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão
