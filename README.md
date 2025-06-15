@@ -45,12 +45,6 @@ Estou sempre aberto a novas oportunidades e desafios que me permitam aplicar e e
          alt="linkedin"
          />
    </a>
-   <a href="mailto:wendermessias.dev@gmail.com?body=Olá,%20tudo%20bem?%20Vi%20seu%20e-mail%20e%20resolvi%20entrar%20em%20contato.">
-      <img 
-          src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel=”noopener” 
-          alt="Gmail"
-      />
-   </a>
 </div>
 
 ## 📊Estatísticas
