@@ -1,8 +1,3 @@
-<!-- Link do video que usei para fazer
-https://youtu.be/cRoBt6AZgjc?si=Z3T7F-i3jZuodyze 
-
-https://youtu.be/9ygf4hkLVnA?si=WC2_lNrQWtLV2ijP-->
-
 <a href="https://git.io/typing-svg">
   <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4999&pause=1000&color=28F727&width=435&lines=Welcome+to+my+profile!" 
   alt="Typing SVG"/>
