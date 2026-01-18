@@ -1,4 +1,3 @@
-
 <a href="https://git.io/typing-svg">
   <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4999&pause=1000&color=28F727&width=435&lines=Welcome+to+my+profile!" 
   alt="Typing SVG"/>
@@ -16,7 +15,7 @@ Atualmente, estou focado no aprimoramento de minhas habilidades em **PHP**, busc
 Estou sempre aberto a novas oportunidades e desafios que me permitam aplicar e expandir meus conhecimentos na área de tecnologia. 
 #
 
-<div style=": ;">
+<div>
   <a href="https://wa.me/553498307474">
       <img
          width="110"
