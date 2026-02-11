@@ -42,7 +42,7 @@ Estou sempre aberto a novas oportunidades e desafios que me permitam aplicar e e
    </a>
 </div>
 
-## 📊Estatísticas
+<!-- ## 📊Estatísticas
 <p>
    <img 
         align-itens="left" 
@@ -56,7 +56,7 @@ Estou sempre aberto a novas oportunidades e desafios que me permitam aplicar e e
         height="200"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendermessias&theme=tokyonight"
      />
-</p>
+</p> -->
 
 ## 🖥️Tecnologia que uso
 
